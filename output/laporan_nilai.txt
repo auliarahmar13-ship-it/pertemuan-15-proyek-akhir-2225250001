@@ -1,0 +1,16 @@
+LAPORAN REKAP DAN ANALISIS NILAI MATEMATIKA
+=============================================
+Jumlah mahasiswa : 5
+Rata-rata nilai  : 75.00
+Nilai minimum    : 60
+Nilai maksimum   : 90
+Jumlah tuntas    : 3
+Jumlah tidak tuntas: 2
+
+RINCIAN NILAI MAHASISWA
+---------------------------------------------
+Andi: 80 - Tuntas
+Budi: 70 - Tidak Tuntas
+Citra: 90 - Tuntas
+Dina: 75 - Tuntas
+Eka: 60 - Tidak Tuntas
